@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Koffee with Cooder</string>
+    <string name="adress">Username</string>
+    <string name="password">Password</string>
+    <string name="Button">login</string>
+    <string name="UserOrNot">New User??</string>
+    <string name="Sign">Sign Up</string>
+    <string name="BeAGuest">Login as a Guest</string>
+    <string name="or">or</string>
+    <string name="Title">Koffee with Cooder!!</string>
+    <string name="SignUpTitle">Sign Up</string>
+    <string name="SignUpName">Name</string>
+    <string name="SignUpPhone">Phone Number</string>
+    <string name="SignUpPassword">Password</string>
+    <string name="SignUpButton">Confirm</string>
+    <string name="Order">Order</string>
+    <string name="Add">+</string>
+    <string name="Subtract">-</string>
+    <string name="value">0</string>
+    <string name="coffee1">Cappuccino</string>
+    <string name="coffee2">Espresso</string>
+    <string name="coffee3">Cold coffee</string>
+    <string name="coffee4">Irish coffee</string>
+    <string name="coffee5">Latte</string>
+    <string name="coffee11">2.50</string>
+    <string name="coffee22">3.00</string>
+    <string name="coffee33">3.25</string>
+    <string name="coffee44">2.00</string>
+    <string name="coffee55">2.75</string>
+</resources>

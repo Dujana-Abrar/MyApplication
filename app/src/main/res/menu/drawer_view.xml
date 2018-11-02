@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    android:checkableBehavior="single"
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_ordercoffee"
+
+            android:title="Order Your Coffee" />
+
+
+    </group>
+
+</menu>
